@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1 ,
+        "name": "PISTA GP RR E2206 DOT - SOLELUNA 2022",
+        "category": "racing",
+        "description": "The most advanced racing helmet in the world worn by Valentino Rossi in the 2022 season, in a limited edition.",
+        "price": 181500,
+        "image": "https://i.postimg.cc/wjCrnJYc/pista-gp-rr-e2206-dot-soleluna-2022.webp",
+        "isAvailable":true ,
+        "rating": "4.6"
+    },{
+        "id": 2 ,
+        "name": "PISTA GP RR E2206 DOT - MONO IRIDIUM CARBON",
+        "category": "racing",
+        "description": "The 100% carbon-fiber racing helmet used by MotoGP™ riders.",
+        "price": 141500,
+        "image": "https://i.postimg.cc/431ZQZYg/pista-gp-rr-e2206-dot-mono-iridium-carbon.webp",
+        "isAvailable":true ,
+        "rating": "4.4"
+    },{
+        "id": 3 ,
+        "name": "PISTA GP RR E2206 DOT - FUTURO CARBONIO FORGIATO",
+        "category": "racing",
+        "description": "Special edition of the racing helmet used in MotoGP™ with shell and PRO Spoiler made of exclusive Carbonio Forgiato, visor and details in Elettro Iridium blue. Design: FUTURO CARBONIO FORGIATO/ELETTRO IRIDIUM",
+        "price": 181500,
+        "image": "https://i.postimg.cc/sxktR0Mm/pista-gp-rr-e2206-dot-futuro-carbonio-forgiato.webp",
+        "isAvailable":true ,
+        "rating": "4.6"
+    } ,   {
+        "id": 4 ,
+        "name": "K-5 JET E2205 MONO - NARDO GREY",
+        "category": "touring",
+        "description": "AGV K-5 JET E2205 motorcycle helmet. This Maxi-jet is beautifully streamlined for both touring and urban use.",
+        "price": 21500,
+        "image": "https://i.postimg.cc/8CCJvyCt/k-5-jet-e2205-mono-nardo-grey.webp",
+        "isAvailable":true ,
+        "rating": "4.0"
+    },{
+        "id": 5 ,
+        "name": "COMPACT ST E2205 MONO - WHITE",
+        "category": "touring",
+        "description": "AGV COMPACT ST E2205 motorcycle helmet. A versatile, modular helmet homologated in two different configurations, with a new interior for maximum comfort.",
+        "price": 41500,
+        "image": "https://i.postimg.cc/tRc54x2K/compact-st-e2205-mono-white.webp",
+        "isAvailable":true ,
+        "rating": "4.4"
+    },{
+        "id": 6 ,
+        "name": "TOURMODULAR E2206 - TEXTOUR MATT BLACK/GREY",
+        "category": "touring",
+        "description": "Lightweight, comfortable and ultra-protective modular helmet, set up for use with integrated DMC communication system. Designed for maximum comfort and safety on long trips.",
+        "price": 61000,
+        "image": "https://i.postimg.cc/WpZnt4Ct/tourmodular-e2206-textour-matt-black-grey.webp",
+        "isAvailable":true ,
+        "rating": "4.6"
+    }  ,  {
+        "id": 7 ,
+        "name": "K6 S E2206 - NARDO GREY",
+        "category": "sport",
+        "description": "The lightest road helmet in the world, versatile and suitable for every motorcycle rider, designed with technologies developed for professional MotoGP™ riders.",
+        "price": 81500,
+        "image": "https://i.postimg.cc/1th8dyHY/k6-s-e2206-nardo-grey.webp",
+        "isAvailable":true ,
+        "rating": "4.6"
+    },{
+        "id": 8 ,
+        "name": "K3 E2206 - FORTIFY GREY/BLACK/YELLOW FLUO",
+        "category": "sport",
+        "description": "The iconic AGV full-face road helmet, versatile and safe, suited to any riding style, with built-in sun visor.",
+        "price": 200000,
+        "image": "https://i.postimg.cc/ZnggZsMn/ax-8-evo-e2205-mono-white.webp",
+        "isAvailable":true ,
+        "rating": "4.8"
+    },{
+        "id": 9 ,
+        "name": "K1 S E2206 - DREAMTIME",
+        "category": "sport",
+        "description": "The sporty road helmet for every day, with Aero Spoiler and Ultravision visor.",
+        "price": 251000,
+        "image": "https://i.postimg.cc/GpYFt7gV/k1-s-e2206-dreamtime.webp",
+        "isAvailable":true ,
+        "rating": "4.8"
+    },  {
+        "id": 10 ,
+        "name": "AX9 AGV E2205 MULTI MPLK - STEPPA CARBON/GREY/YELLOW FLUO",
+        "category": "offroad",
+        "description": "Lightness, comfort and adaptability reach the highest technological level in the AGV AX9.",
+        "price": 241800,
+        "image": "https://i.postimg.cc/cCN0ZHgP/ax9-agv-e2205-multi-mplk-steppa-carbon-grey-yellow-fluo.webp",
+        "isAvailable":true ,
+        "rating": "4.9"
+    },{
+        "id": 11 ,
+        "name": "AX9 MULTI E2205 - NORTH BLACK/WHITE/CYAN",
+        "category": "offroad",
+        "description": "Lightness, comfort and adaptability reach the highest technological level in the AGV AX9.",
+        "price": 290000,
+        "image": "https://i.postimg.cc/Tw643W0j/ax9-multi-e2205-north-black-white-cyan.webp",
+        "isAvailable":true ,
+        "rating": "4.8"
+    },{
+        "id": 12 ,
+        "name": "AX9 MULTI E2205 - PACIFIC ROAD MATT GREY/YELLOW FLUO/BLACK",
+        "category": "offroad",
+        "description": "TLightness, comfort and adaptability reach the highest technological level in the AGV AX9.",
+        "price": 151000,
+        "image": "https://i.postimg.cc/jjsfqxNw/ax9-multi-e2205-pacific-road-matt-grey-yellow-fluo-black.webp",
+        "isAvailable":true ,
+        "rating": "4.8"
+    }
+
+
+
+
+]
